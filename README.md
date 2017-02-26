@@ -6,9 +6,9 @@
 
 1 - Start the game with a **welcome screen** in which you can select the game mode (EASY, NORMAL, COMPLICATED, IMPOSSIBLE) and start playing.
 
-2 - The game consists of a single **level** , in which the **player controls the friendly ship**. You only have **one life** to take down the horde of alien ships. That they will be presented in **different groups** depending on the **difficulty selected** at the beginning. EASY = 10, NORMAL = 15, COMPLICATED=20 , IMPOSSIBLE=30.
+2 - The game consists of a single **level**, in which the **player controls the friendly ship**. You only have **one life** to take down the horde of alien ships. That they will be presented in **different groups** depending on the **difficulty selected** at the beginning. EASY = 10, NORMAL = 15, COMPLICATED=20 , IMPOSSIBLE=30.
 
-3 - Allied ship moves **up** (Key **Q**), **down** ( Key **A**), **left** (Key **O**) and **right** (Key **P**), and shoot with the SPACE key. It **moves** across the **entire screen** , detecting that does not go out of the **limits**. The **shot** made by the ship is **continuous**, it is not necessary to wait for missile leaves the screen, and **there's only one type**.
+3 - Allied ship moves **up** (Key **Q**), **down** (Key **A**), **left** (Key **O**) and **right** (Key **P**), and shoot with the SPACE key. It **moves** across the **entire screen** , detecting that does not go out of the **limits**. The **shot** made by the ship is **continuous**, it is not necessary to wait for missile leaves the screen, and **there's only one type**.
 
 4 - The **alien ships** are controlled by the **computer** and **don't shoot**. There are **two kinds** of ships differentiated by their movement. One type of ship only moves in the X axis and another in the X and Y.
 
